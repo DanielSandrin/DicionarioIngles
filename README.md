@@ -8,7 +8,7 @@ Antes de iniciar a clonagem do projeto é necessário ter instalado em sua máqu
 
 GitHub instalado em sua máquina
 
-Execute o seguinte comando no seu terminal git clone terminal: git remote add origin https://github.com/DanielSandrin/IndicadorForcaSenha.git
+Execute o seguinte comando no seu terminal git clone terminal: git remote add origin https://github.com/DanielSandrin/DicionarioIngles.git
 
 1º Baixar dependências: Após baixar o projeto basta abrir o arquivo html no navegador para iniciar o projeto
 
